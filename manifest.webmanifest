@@ -1,25 +1,15 @@
 {
   "name": "Sovereign Front",
   "short_name": "Sovereign Front",
-  "description": "Offline territory conquest strategy game.",
+  "description": "Mobile-first geopolitical territory conquest strategy by PhantomFlex.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
-  "background_color": "#e8f1f7",
-  "theme_color": "#176fd1",
+  "background_color": "#10253a",
+  "theme_color": "#10253a",
   "icons": [
-    {
-      "src": "icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
+    {"src":"assets/icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"assets/icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
   ]
 }
